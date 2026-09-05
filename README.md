@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PoolPay AI
 
 > **Autonomous Multi-Agent Group Buying & Dynamic Razorpay Payment Rails**
@@ -71,3 +72,6 @@ PoolPay AI includes a built-in interactive scenario simulating a **1 out of 5 pa
 2. Click **Auto-Fill 4 AI Bids** and then submit a 5th Buyer Mandate to reach pool threshold.
 3. Observe the Merchant Agent automatically trigger a **Razorpay Batch Order**.
 4. Click **Simulate 1/5 Payment Failure & Auto-Recover** to observe the Merchant Agent execute the **Graceful Recovery Protocol** (absorbing the shortfall from profit margin buffer without crashing the batch deal).
+=======
+# PoolPay-AI
+>>>>>>> 85a2182ac015766bc2088a2f458c50d61ec3bf7f
