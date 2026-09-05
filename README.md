@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # PoolPay AI
 
 > **Autonomous Multi-Agent Group Buying & Dynamic Razorpay Payment Rails**
@@ -75,3 +76,9 @@ PoolPay AI includes a built-in interactive scenario simulating a **1 out of 5 pa
 =======
 # PoolPay-AI
 >>>>>>> 85a2182ac015766bc2088a2f458c50d61ec3bf7f
+=======
+# PoolPay-AI
+<<<<<<< HEAD
+=======
+>>>>>>> origin/main
+>>>>>>> origin/main
